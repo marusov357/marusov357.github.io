@@ -1,1 +1,2 @@
+yandex.com, 107094516, DIRECT
 google.com, pub-6187523841458140, DIRECT, f08c47fec0942fa0
